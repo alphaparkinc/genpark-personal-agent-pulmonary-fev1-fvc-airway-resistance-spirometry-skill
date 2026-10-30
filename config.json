@@ -1,0 +1,10 @@
+{
+  "skill_id": 258,
+  "name": "genpark-personal-agent-pulmonary-fev1-fvc-airway-resistance-spirometry-skill",
+  "ecosystem": "GenPark",
+  "portal": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "runtime": "python-3.8+",
+  "max_concurrency": 8,
+  "timeout_seconds": 30
+}
