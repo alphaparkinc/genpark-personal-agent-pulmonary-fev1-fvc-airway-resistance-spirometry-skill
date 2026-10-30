@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-pulmonary-fev1-fvc-airway-resistance-spirometry-skill",
+  "version": "1.0.0",
+  "title": "Pulmonary FEV1/FVC Spirometry & Airway Resistance Skill",
+  "category": "Personal Agent (Bio / Respiratory Health)",
+  "description": "Evaluates dynamic spirometric volumes (FEV1, FVC, FEV1/FVC, FEF25-75%), detects obstructive vs restrictive ventilatory patterns, and computes maximal voluntary ventilation.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "evaluate_pulmonary_spirometry"
+  ],
+  "dependencies": []
+}
